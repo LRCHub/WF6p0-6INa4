@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Mengagumimu Dari Jauh",
+  "base_artist": "Tulus",
+  "createdAt": "2026-03-02T01:49:31.881589Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mengagumimu Dari Jauh",
+      "artist": "Tulus",
+      "has_synced": false,
+      "path": "select/01_Mengagumimu_Dari_Jauh_Tulus.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mengagumimu dari jauh",
+      "artist": "Tulus",
+      "has_synced": false,
+      "path": "select/pl_01_Mengagumimu_dari_jauh_Tulus.txt"
+    }
+  ]
+}
